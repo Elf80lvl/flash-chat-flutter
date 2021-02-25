@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006396023571",
+    "project_id": "flash-chat-d6485",
+    "storage_bucket": "flash-chat-d6485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006396023571:android:3f706bbf401c0eaa09f0e6",
+        "android_client_info": {
+          "package_name": "RichardWinter.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006396023571-hrka72gforskcb2plep6gb4e8op0c9qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_Xekip97xM67ZFK8nIAXWhUEgvHzsCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006396023571-hrka72gforskcb2plep6gb4e8op0c9qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
